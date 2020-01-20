@@ -13,5 +13,5 @@ dependencies {
 }
 
 task application {
-	mainClassName = 'main/java/csci2020u/lab02/SimpleTest'
+	mainClassName = 'main/java/csci2020u/lab02/CSVDemo'
 }

@@ -66,7 +66,7 @@ set CMD_LINE_ARGS=%*
 set CLASSPATH=%APP_HOME%\lib\lab02.jar;%APP_HOME%\lib\commons-csv-1.6.jar
 
 @rem Execute lab02
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %LAB02_OPTS%  -classpath "%CLASSPATH%" main/java/csci2020u/lab02/SimpleTest %CMD_LINE_ARGS%
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %LAB02_OPTS%  -classpath "%CLASSPATH%" main/java/csci2020u/lab02/CSVDemo %CMD_LINE_ARGS%
 
 :end
 @rem End local scope for the variables with windows NT shell
